@@ -1,2 +1,2 @@
 # pprojects
-ml, dl, product projects
+vk case to solve using nlp
